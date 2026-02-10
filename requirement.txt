@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+beautifulsoup4
+sentence-transformers
+faiss-cpu
+chromadb
+pandas
+langchain-groq
+python-dotenv
+typesense
+HuggingFaceEmbedding
